@@ -1,0 +1,10 @@
+h2 {
+  color:red;
+  font-family: 'Sedgwick Ave', cursive;
+  font-weight: 400;
+}
+
+main h2 {
+  color:brown;
+  font-family: sans-serif;
+}
